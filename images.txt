@@ -1,4 +1,4 @@
-#jenkins/jenkins
+
 node:20.11-alpine3.19
 #--platform=linux/arm64 nginx:1.22.1
 #支持私库
