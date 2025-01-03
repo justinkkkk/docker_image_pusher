@@ -1,4 +1,4 @@
---platform=linux/arm64 qgis/qgis:latest
+debian:bookworm-slim
 #--platform=linux/arm64 qgis/qgis:latest-arm
 #--platform=linux/arm64 nginx:1.22.1
 #支持私库
