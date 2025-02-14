@@ -1,5 +1,5 @@
 #ubuntu:20.04
-registry.cn-hangzhou.aliyuncs.com/hanfangyuan/dify-on-wechat:arm64
+hanfangyuan/dify-on-wechat:arm64
 #--platform=linux/arm64 dify-on-wechat:arm64
 #--platform=linux/arm64 nginx:1.22.1
 #支持私库
