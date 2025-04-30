@@ -1,5 +1,5 @@
 #ubuntu:20.04
-milvusdb/milvus:v2.3.21
+elasticsearch:8.14.3
 #hanfangyuan/dify-on-wechat:arm64
 #aingdesk/aingdesk:latest
 #--platform=linux/arm64 python:3.11.9-slim
