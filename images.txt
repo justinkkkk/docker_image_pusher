@@ -1,7 +1,7 @@
 #ubuntu:20.04
 #hanfangyuan/dify-on-wechat:arm64
 #registry.cn-hangzhou.aliyuncs.com/zhuyijun/oracle:19c
-mysql:5.6
+--platform=linux/arm64 osixia/keepalived:latest 
 #aingdesk/aingdesk:latest
 #--platform=linux/arm64 python:3.11.9-slim
 #--platform=linux/arm64 nginx:1.22.1
