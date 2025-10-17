@@ -1,7 +1,7 @@
 #ubuntu:20.04
 #hanfangyuan/dify-on-wechat:arm64
 #registry.cn-hangzhou.aliyuncs.com/zhuyijun/oracle:19c
-#--platform=linux/arm64 nacos/nacos-server:v3.0.3 
+--platform=linux/arm64 keking/kkfileview-jdk:latest
 #mysql:5.7
 #aingdesk/aingdesk:latest
 #--platform=linux/arm64 python:3.11.9-slim
