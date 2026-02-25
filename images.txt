@@ -1,11 +1,11 @@
 #ubuntu:20.04
 #hanfangyuan/dify-on-wechat:arm64
 #registry.cn-hangzhou.aliyuncs.com/zhuyijun/oracle:19c
-ghcr.io/1186258278/openclaw-zh:nightly
+#ghcr.io/1186258278/openclaw-zh:nightly
 #mysql:5.7
 #aingdesk/aingdesk:latest
 #--platform=linux/arm64 python:3.11.9-slim
-#--platform=linux/arm64 nginx:1.22.1
+--platform=linux/arm64 sonar-scanner-cli:latest
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
