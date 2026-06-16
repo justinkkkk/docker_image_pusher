@@ -1,6 +1,6 @@
 #ubuntu:20.04
 #hanfangyuan/dify-on-wechat:arm64
---platform=linux/arm64 lscr.io/linuxserver/webtop:ubuntu-xfce
+--platform=linux/arm64 zenika/alpine-chrome
 #registry.cn-hangzhou.aliyuncs.com/zhuyijun/oracle:19c
 #ghcr.io/1186258278/openclaw-zh:nightly
 #mysql:5.7
